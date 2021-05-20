@@ -1,0 +1,160 @@
+body {
+font-family: 'Cabin', sans-serif;
+color: #373A3C;
+}
+
+h1 {
+    font-family: 'Lobster';
+    font-size: 37px;
+}
+
+.nav-link {
+    font-family: 'Cabin';
+    font-size: 16px;
+}
+
+.container {
+    width: 100%;
+}
+
+.line {
+    border-color: #000000;
+    border: 5px;
+}
+
+
+.img-fluid {
+    width: 482px;
+    height: 425px;
+}
+
+
+.card-text {
+    text-align: left;
+    color: #373a3C;
+    font-family: 'Cabin';
+    font-size: 40px;
+    width: 425px;
+    margin-top: 40px;
+}
+
+.hr_card_pizza {
+    border-color: black;
+    width: 100%;
+}
+
+hr {
+    border-color: #000000;
+    width: 75%;
+}
+
+.card-text-s {
+    font-family: 'Cabin';
+    text-align: left;
+    color: #373a3C;
+    font-size: 20px;
+}
+
+.botones {
+    color: #373a3C;
+}
+
+.boton_card {
+    font-family: 'Cabin';
+    font-size: 16px;
+    border-color: #DDDDDD;
+    display: inline-block;
+}
+
+.arreglos {
+    width: 233px;
+    height: 170px;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #373a3C;
+    margin-bottom: -10px;
+}
+
+h6 {
+    font-size: 20px;
+    color: #373a3C;
+    text-align: left;
+    text-decoration: underline black;
+}
+
+
+p {
+    font-family: 'Cabin';
+    font-size: 20px;
+    color: #373a3C;
+    line-height: 1;
+}
+
+.titulo-recetas {
+    font-family: 'Cabin';
+    font-size: 40px;
+    color: #373a3C;
+    padding-top: 25px;
+    padding-bottom: 50.5px;
+}
+
+.card-body {
+    width: 316px;
+    height: 197.8px;
+}
+
+h5 {
+    font-family: 'Cabin';
+    font-size: 23px;
+    color: #373a3C;
+}
+
+.texto-recetas-relacionadas {
+    font-family: 'Cabin';
+    font-size: 16px;
+    color: #373a3C;  
+    width: auto;  
+    height: auto;
+}
+
+#size-newsletter {
+    width: 1280px;
+    height: 534px;
+}
+.newsletter {
+    font-family: 'Cabin';
+    font-size: 40px;
+    margin-top: 150.5px;
+    padding-top: 150.5px;
+}
+
+.parra_newsletter {
+    font-family: 'Cabin';
+    font-size: 20px;
+}
+.estilo {
+    display: inline-block;
+    width: 10px;
+    font-family: 'Lobster';
+    font-size: 30px;
+}
+
+.boton_newsletter {
+    width: 233px;
+    height: 40px;
+    border-color: #DDDDDD;
+}
+
+footer {
+    width: 1280px;
+    height: 127px;
+}
+
+.pie_pag {
+    font-family: 'Lobster';
+    font-size: 37px;
+}
